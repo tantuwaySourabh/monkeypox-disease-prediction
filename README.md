@@ -30,3 +30,7 @@ mp_data =pd.read_csv("drive/My Drive/<YourFolderContainingCSV>/DATA.csv")
 mp_data.head()
 ```
 5. you can run rest of the cells of notebook now.
+
+
+## For read only view of project:
+Open this link : https://colab.research.google.com/drive/1zzuy5bQPLUZTUsMlKuvffNFvtDASQ7p9?usp=sharing
